@@ -1,6 +1,6 @@
-## JANOARG Chartmaker
-*(**J**ust **A**nother **N**ormal, **O**rdinary, **A**cceptable **R**hythm **G**ame **Chartmaker**)*  
-The chart editor for a rhythm game where everything can move.
+## NotJANOARG Chartmaker
+NOT *(**J**ust **A**nother **N**ormal, **O**rdinary, **A**cceptable **R**hythm **G**ame **Chartmaker**)*  
+The chart editor for a rhythm game where everything can move. But customized to not just for [the base game](https://github.com/FFF40/JANOARG).
 
 ![Previews/chartmaker.png](Previews/chartmaker.png)
 
