@@ -4,6 +4,9 @@ The chart editor for a rhythm game where everything can move. But customized to 
 
 ![Previews/chartmaker.png](Previews/chartmaker.png)
 
+## What is Changed?
+- Nothing, yet
+
 ## How to Contribute Code
 
 ### You'll need the following:
