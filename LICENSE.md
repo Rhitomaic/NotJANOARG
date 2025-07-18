@@ -1,4 +1,7 @@
 # License/Derivative guidelines
+Still thinking about it and discussing it with ducdat0507
+
+# Original License/Derivative guidelines
 
 You may create derivatives (charts) using the tools provided inside the project as you wish
 but please follow these guidelines before doing so:
