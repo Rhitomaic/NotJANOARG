@@ -37,13 +37,13 @@ public class LoggerEntry : MonoBehaviour
             MessageLabel.text = target.Message;
             StackTraceLabel.gameObject.SetActive(true);
             StackTraceLabel.text = target.StackTrace;
-            MessageLabel.enableWordWrapping = true;
+            MessageLabel.textWrappingMode = TextWrappingModes.Normal;
         }
         else 
         {
             MessageLabel.text = Regex.Match(target.Message + "\n" + target.StackTrace, @"^[^\n]*\n[^\n]*").Value;
             StackTraceLabel.gameObject.SetActive(false);
-            MessageLabel.enableWordWrapping = false;
+            MessageLabel.textWrappingMode = TextWrappingModes.NoWrap;
         }
         Sizer.enabled = true;
     }

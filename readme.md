@@ -11,8 +11,8 @@ The chart editor for a rhythm game where everything can move. But customized to 
 
 ### You'll need the following:
 * A personal computer (Windows/Mac/Linux, the editor isn't available on mobile, sorry)
-* A copy of Unity Editor (preferably version 2022.3.46)
-* A code editor (any text editor should work)
+* A copy of Unity Editor (preferably version 6000.0.51f1)
+* A code editor (any text editor should work, preferrably Visual Studio/VSCode or Rider)
 * A copy of Git/Github Desktop is recommended so you can update/submit code easily
 
 ### Instructions

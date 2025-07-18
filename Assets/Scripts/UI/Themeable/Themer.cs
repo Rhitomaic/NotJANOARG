@@ -22,7 +22,8 @@ public class Themer : MonoBehaviour
 
     public void SetAllColors()
     {
-        foreach (Themeable themeable in FindObjectsOfType<Themeable>())
+        var objs = FindObjectsByType<Themeable>(FindObjectsSortMode.None);
+        foreach (Themeable themeable in objs)
         {
             themeable.SetColors();
         }

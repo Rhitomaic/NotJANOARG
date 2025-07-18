@@ -15,8 +15,6 @@ public class LoaderPanel : MonoBehaviour
     public TMP_Text ActionLabel;
     public TMP_Text ProgressLabel;
 
-    bool isAnimating;
-
     public void OnEnable() 
     {
         StartCoroutine(Intro());
@@ -24,7 +22,6 @@ public class LoaderPanel : MonoBehaviour
 
     IEnumerator Intro()
     {
-        isAnimating = true;
         StartCoroutine(IntroNudge());
 
         void ease1 (float x) 
@@ -39,8 +36,6 @@ public class LoaderPanel : MonoBehaviour
             yield return null;
         }
         ease1(1);
-
-        isAnimating = false;
     }
 
     IEnumerator IntroNudge()
