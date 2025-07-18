@@ -22,4 +22,4 @@ The chart editor for a rhythm game where everything can move. But customized to 
 * Send the project (by making a pull request)
 
 ## Contact
-We have a [Discord server](https://discord.gg/vXJTPFQBHm) for discussions/official songlist submission! You can also share and receive charting tips I guess
+We have DON'T have a [Discord server](#) yet for discussions! Stay tuned for that
