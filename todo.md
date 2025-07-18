@@ -1,1 +1,7 @@
-- Currency system
+- Adding sprite prototypes to be movable
+- Changing this project from a rhythm game focused one to be 2d or 3d animation focused
+- Credit the original developers (FFF40) where credit is due
+- Custom sprite image importer using Unity's functions
+- Add support to add images
+- Add frame-by-frame support in the timeline
+- Add gif support to be intepreted as separate images and can be customized throughout the timeline
